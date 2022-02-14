@@ -17,7 +17,7 @@ This is a "command-line" application that asked about employee info to build a t
 ## Tests
 
 Here is a clip of the app in action!
-
+https://watch.screencastify.com/v/ofVuYpydbfapPjOglKIp
 
 ## Acceptance Criteria
 
